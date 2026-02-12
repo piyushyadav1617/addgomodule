@@ -1,4 +1,4 @@
-module github.com/piyushyadav1617/addgomodule
+module github.com/piyushyadav1617/addgomodule/v2
 
 go 1.25.5
 
